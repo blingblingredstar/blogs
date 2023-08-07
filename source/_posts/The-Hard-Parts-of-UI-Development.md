@@ -222,6 +222,8 @@ jsDiv.textContent = post;
 console.log(jsDiv);
 ```
 
+</details>
+
 ### Updating DOM Elements with JavaScript
 
 WebCore gives JavaScript access to the DOM & pixels. > WebCore 使 JavaScript 可以访问 DOM 和像素。
