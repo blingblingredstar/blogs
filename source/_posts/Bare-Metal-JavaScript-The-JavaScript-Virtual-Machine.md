@@ -1,7 +1,7 @@
 ---
 title: 'Bare Metal JavaScript: The JavaScript Virtual Machine'
 date: 2023-10-29 13:17:22
-categories:
+categories: 学习笔记
 tags: [FrontEndMasters, JavaScript]
 ---
 

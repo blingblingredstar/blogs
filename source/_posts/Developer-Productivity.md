@@ -16,7 +16,8 @@ tags: [FrontEndMasters, Shell, Tmux, git]
 - What is developer Productivity?
 
   - Definition: All the things that separate you from working
-<!--more-->
+  <!--more-->
+
 ## Ansible
 
 ### The Problem Statement
