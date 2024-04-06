@@ -23,6 +23,8 @@ setTimeout(() => console.log('A'), 0);
 Promise.resolve().then(() => console.log('B'));
 ```
 
+<!-- more -->
+
 ### Question 1
 
 - Put the logs in the correct order.
